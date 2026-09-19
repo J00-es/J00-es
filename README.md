@@ -2,7 +2,7 @@ I build [Refery](https://refery.io), a recruiting partner network for VC-backed 
 
 ### Now
 
-- [refery.xyz](https://refery.xyz), the partner desk: searches, candidates, one-tap decisions, agreements signed in the browser, installs as an app on the phone. Private repo, 374 commits since April 2026.
+- [app.refery.io](https://app.refery.io), the partner desk: searches, candidates, one-tap decisions, agreements signed in the browser, installs as an app on the phone. Private repo, 374 commits since April 2026.
 - The matching engine: every open role against every candidate on the bench, nightly, with an evidence trail a person reads before anything is sent.
 - Ops in Slack: intake, decisions and follow-ups are reactions on cards, so one channel runs the company.
 
@@ -14,4 +14,4 @@ Next.js 16, React 19, Supabase Postgres with row-level security and pg_cron, Res
 
 [J00-es/refery](https://github.com/J00-es/refery): screenshots, architecture and a changelog. The code stays private.
 
-[refery.io](https://refery.io) · [refery.xyz](https://refery.xyz) · hello@refery.io
+[refery.io](https://refery.io) · [app.refery.io](https://app.refery.io) · hello@refery.io
